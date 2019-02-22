@@ -3,8 +3,7 @@
 ***ENGLISH VERSION***
 
 Authors: Ignacio DE PEDRO MERMIER, Leandro DOMINA.
-Google Maps in Androir
-
+Google Maps in Android
 What does this app do?
 
 Use Google Maps into an Android activity.
