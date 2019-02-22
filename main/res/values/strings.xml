@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP5</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="type_normal">Normal view</string>
+    <string name="type_hybrid">Hybrid view</string>
+    <string name="type_satellite">Satellite view</string>
+</resources>
+
