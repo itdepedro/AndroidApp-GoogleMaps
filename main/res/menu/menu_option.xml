@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/resetAction"
+        android:title="@string/type_normal"
+        android:onClick="typeNormal">
+    </item>
+    <item android:id="@+id/webSearch"
+        android:title="@string/type_hybrid"
+        android:onClick="typeHybrid">
+    </item>
+    <item android:id="@+id/share"
+        android:title="@string/type_satellite"
+        android:onClick="typeSatellite">
+    </item>
+
+</menu>
